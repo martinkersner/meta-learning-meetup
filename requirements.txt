@@ -1,2 +1,5 @@
 jupyter
 RISE
+numpy
+scikit-learn
+scipy
